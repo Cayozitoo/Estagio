@@ -1,0 +1,14 @@
+C:\Users\cayof\Dev\Csharp\Estagio\DeteccaoString\bin\Debug\net8.0\DeteccaoString.exe
+C:\Users\cayof\Dev\Csharp\Estagio\DeteccaoString\bin\Debug\net8.0\DeteccaoString.deps.json
+C:\Users\cayof\Dev\Csharp\Estagio\DeteccaoString\bin\Debug\net8.0\DeteccaoString.runtimeconfig.json
+C:\Users\cayof\Dev\Csharp\Estagio\DeteccaoString\bin\Debug\net8.0\DeteccaoString.dll
+C:\Users\cayof\Dev\Csharp\Estagio\DeteccaoString\bin\Debug\net8.0\DeteccaoString.pdb
+C:\Users\cayof\Dev\Csharp\Estagio\DeteccaoString\obj\Debug\net8.0\DeteccaoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cayof\Dev\Csharp\Estagio\DeteccaoString\obj\Debug\net8.0\DeteccaoString.AssemblyInfoInputs.cache
+C:\Users\cayof\Dev\Csharp\Estagio\DeteccaoString\obj\Debug\net8.0\DeteccaoString.AssemblyInfo.cs
+C:\Users\cayof\Dev\Csharp\Estagio\DeteccaoString\obj\Debug\net8.0\DeteccaoString.csproj.CoreCompileInputs.cache
+C:\Users\cayof\Dev\Csharp\Estagio\DeteccaoString\obj\Debug\net8.0\DeteccaoString.dll
+C:\Users\cayof\Dev\Csharp\Estagio\DeteccaoString\obj\Debug\net8.0\refint\DeteccaoString.dll
+C:\Users\cayof\Dev\Csharp\Estagio\DeteccaoString\obj\Debug\net8.0\DeteccaoString.pdb
+C:\Users\cayof\Dev\Csharp\Estagio\DeteccaoString\obj\Debug\net8.0\DeteccaoString.genruntimeconfig.cache
+C:\Users\cayof\Dev\Csharp\Estagio\DeteccaoString\obj\Debug\net8.0\ref\DeteccaoString.dll
